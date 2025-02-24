@@ -24,5 +24,5 @@ output:  Top recommended movies:
         Michael Jackson's Thriller    0.614415
 
 
-
+# SALARY EXPECTATION : (1600$-2400$ per month)I am open to discussing compensation based on the company's standard range for this role
 
