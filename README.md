@@ -12,10 +12,15 @@ open your notebook in Jupyter> go to run> run all cells and enter query
 query:"i like action movies set in space"
 output:  Top recommended movies:
                              title  similarity
+                             
                       Interstellar    1.000000
+                      
         Steven Universe: The Movie    0.840407
+        
                  Avengers: Endgame    0.678367
+                 
 Doctor Who: The Time of the Doctor    0.654630
+
         Michael Jackson's Thriller    0.614415
 
 
