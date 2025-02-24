@@ -1,7 +1,10 @@
 # lumaa-spring-2025-ai-ml
 Dataset: from : Kaggle(since only 500 rows are allowed i have to take first 500 rows from dataset containing 10000 rows), any steps to load it: make sure the dataset and challenge1.ipynb file is in same directory.
-Setup: Python version: 3.11.7 , virtual environment instructions: none, and how to install dependencies :pip install -r requirements.txt.
+
+Setup: Python version: 3.11.7 , virtual environment instructions: none, and how to install dependencies :none(already set "!pip install -r requirements.txt" in code cell just run it in notebook.
+
 Running: open your notebook in Jupyter> go to run> run all cells and enter query 
+
 Results: query:"i like action movies set in space"
 output:  Top recommended movies:
                              title  similarity
